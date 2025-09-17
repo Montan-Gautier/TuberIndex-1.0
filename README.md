@@ -1,5 +1,5 @@
 # TuberIndex 1.0
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17077591.svg)](https://doi.org/10.5281/zenodo.17077591)
 **Author:** Montan Gautier  
 **Date:** September 16, 2025  
 
